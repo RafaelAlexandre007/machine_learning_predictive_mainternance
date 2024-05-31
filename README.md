@@ -1,4 +1,4 @@
-# Manutenção Preditiva
+# Machine Learning aplicda à Manutenção Preditiva
 
 ## Introdução à Manutenção Preditiva
 
