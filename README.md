@@ -17,7 +17,4 @@ Você pode adicionar outros elementos de formatação Markdown, como listas, neg
 - Melhoria da segurança operacional
 
 
-### Texto em Negrito e Itálico
-
-
 **Manutenção preditiva** é uma *abordagem avançada* que utiliza análise de dados para evitar falhas.
